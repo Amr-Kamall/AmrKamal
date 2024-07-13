@@ -89,14 +89,6 @@
 
 <br>
 
-<br>
-
-<li>
-    <a href="mailto:amr442028@gmail.com">
-        <img src="https://img.shields.io/badge/gmail:amr442028%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
-    </a>
-</li>
-
 	
 </ul>
 </div>
