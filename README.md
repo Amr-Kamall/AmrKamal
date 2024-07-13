@@ -136,6 +136,6 @@
 
 <br>
 
-Credit: [Ahmed Zena](https://github.com/AhmedZena)
+Credit: [Amr Kamal](https://github.com/Amr-Kamall)
 
 Last Edited on: 24/12/2023
