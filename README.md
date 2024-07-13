@@ -96,8 +96,8 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/ahmed-zena/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: ahmedzena-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/developer-amr-kamal/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: amr-kamal%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -107,8 +107,8 @@
 <br>
 
 <li>
-<a href="mailto:ahmedzena53@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Ahmedzena53-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:amr442028@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  amr442028%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
